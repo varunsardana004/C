@@ -44,7 +44,7 @@ for(int i=0;i<count1;i++)
   }
   return 1;
   }
-  else
+  else 
   {
     return 0;
   }
